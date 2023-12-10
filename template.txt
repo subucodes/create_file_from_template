@@ -1,0 +1,2 @@
+Hi,
+This is {name} and I currently work as {role} in {company}.
